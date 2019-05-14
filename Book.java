@@ -4,6 +4,7 @@ public class Book{
         private String author ; 
         private boolean isHardcoover;
         private int numberOfPages;
+        private String preface;
 
         public void setAuthor(String author){
             this.author = author;
